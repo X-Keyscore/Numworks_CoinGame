@@ -14,5 +14,5 @@ Bon jeu :)
 ![img-3](https://user-images.githubusercontent.com/59397349/110681442-2182b580-81da-11eb-861f-9c8632113c3c.png)
 ### ● J'ai fini je suis passé au level suivant
 ![img-4](https://user-images.githubusercontent.com/59397349/110678537-b388bf00-81d6-11eb-87b5-5fec00ef36d5.png)
-### ● J'ai aussi un petit menu disponible avec la touche HOME
+### ● Il y a aussi un petit menu disponible avec la touche HOME
 ![img-5](https://user-images.githubusercontent.com/59397349/110685044-29445900-81de-11eb-923c-6a59d7c59be9.png)
