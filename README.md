@@ -3,7 +3,7 @@
 Ceci est un jeu python simple ou l'objectif est de récupérer toutes les pièces pour passer au level suivant mais vous croiserez des ennemis sur votre chemin si vous avez le maleur dans toucher un vous devrez recommancé depuis le début.
 Bon jeu :)
 
-**Systeme** :
+**Systeme :**
 * Epsilon calculatrice Numworks
 * (Peux être adapté sur PC)
 ## Images
