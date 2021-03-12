@@ -1,11 +1,11 @@
 # CoinGame
-Ceci est un jeu python simple ou l'objectif est de récupérer toutes les pièces pour passer au level suivant mais vous croiserez des ennemis sur votre chemin si vous avez le maleur dans toucher un vous devrez recommancé depuis le début.
+Ceci est un jeu python simple ou l'objectif est de récupérer toutes les pièces pour passer au level suivant et vous devrez éviter les ennemis sur votre chemin, si vous avez le malheur d'en toucher un vous devrez recommencer depuis le début.
 Bon jeu :)
 
 **Systeme :**
 * Epsilon calculatrice Numworks
 * (Peux être adapté sur PC)
-## Images
+## Présentation
 ### ● Je lance le jeu
 ![img-1](https://user-images.githubusercontent.com/59397349/110678079-2f363c00-81d6-11eb-86bb-2cda82b481ea.png)
 ### ● Je récupère des pièces
