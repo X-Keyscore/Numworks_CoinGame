@@ -6,6 +6,11 @@ Bonne chance :)
 **Systeme :**
 * Epsilon calculatrice Numworks
 * (Peux être adapté sur PC)
+
+**Historique des versions :**
+* CoinGame 1.0 | 2 levels disponibles, menu de démarage ajouter.
+* CoinGame 2.0 | 4 levels disponibles, menu de démarrage retiré (pour cause d'optimisation)
+
 ## Présentation
 ### ● Je lance le jeu
 ![img-1](https://user-images.githubusercontent.com/59397349/110678079-2f363c00-81d6-11eb-86bb-2cda82b481ea.png)
