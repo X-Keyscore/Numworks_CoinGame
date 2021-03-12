@@ -9,7 +9,7 @@ Bonne chance :)
 
 **Historique des versions :**
 * CoinGame 1.0 | 2 levels disponibles, menu de démarage ajouter.
-* CoinGame 2.0 | 4 levels disponibles, menu de démarrage retiré (pour cause d'optimisation)
+* CoinGame 2.0 | 4 levels disponibles, menu de démarrage retiré (pour cause d'optimisation), corection de bugs
 
 ## Présentation
 ### ● Je lance le jeu
