@@ -1,5 +1,5 @@
 # CoinGame
-Ceci est un jeu python simple ou l'objectif est de récupérer toutes les pièces pour passer au level suivant toute en évitant les ennemis sur votre chemin et si vous avez le malheur d'en toucher un vous devrez recommencer depuis le début.
+Ceci est un jeu de type Platformer en python ou l'objectif est de récupérer toutes les pièces pour passer au level suivant toute en évitant les ennemis sur votre chemin et si vous avez le malheur d'en toucher un vous devrez recommencer depuis le début.
 
 Bonne chance :)
 
