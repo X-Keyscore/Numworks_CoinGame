@@ -1,6 +1,7 @@
 # CoinGame
 Ceci est un jeu python simple ou l'objectif est de récupérer toutes les pièces pour passer au level suivant toute en évitant les ennemis sur votre chemin et si vous avez le malheur d'en toucher un vous devrez recommencer depuis le début.
-Bon jeu :)
+
+Bonne chance :)
 
 **Systeme :**
 * Epsilon calculatrice Numworks
