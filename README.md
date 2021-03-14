@@ -8,8 +8,8 @@ Bonne chance :)
 * (Peux être adapté sur PC)
 
 **Historique des versions :**
-* **CoinGame 1.0** | 2 levels disponibles, menu de démarage ajouter.
-* **CoinGame 2.0** | 4 levels disponibles, amélioration de l'affichage, menu de démarrage retiré (pour cause d'optimisation) et correction de bugs.
+* **CoinGame 1.0** | 2 levels disponibles.
+* **CoinGame 2.0** | 4 levels disponibles, amélioration de l'affichage, menu de jeux ajouter (touche home) et correction de bugs.
 
 ## Images
 ![img-1](https://user-images.githubusercontent.com/59397349/111073614-b38f0480-84df-11eb-9ee9-4bd51e6ac415.png)
