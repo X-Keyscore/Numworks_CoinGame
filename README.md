@@ -10,6 +10,7 @@ Bonne chance :)
 **Historique des versions :**
 * **CoinGame 1.0** | 2 levels disponibles.
 * **CoinGame 2.0** | 4 levels disponibles, amélioration de l'affichage, menu de jeux ajouter (touche home) et correction de bugs.
+* **CoinGame 2.1** | Probleme de memoire résolu.
 
 ## Images
 ![img-1](https://user-images.githubusercontent.com/59397349/111073614-b38f0480-84df-11eb-9ee9-4bd51e6ac415.png)
